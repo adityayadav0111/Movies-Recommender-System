@@ -115,6 +115,11 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
+   
+## Screenshots
+
+![Screenshot 2024-10-14 200155](https://github.com/user-attachments/assets/c0fe0efb-2a95-42a4-8871-797df7630e2a)
+![Screenshot 2024-10-14 200227](https://github.com/user-attachments/assets/751d40bb-9cf0-406c-aad0-99a492f79be6)
 
 ## License
 
